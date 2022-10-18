@@ -18,6 +18,11 @@
     clear: both;
 }
 
+.gallery{
+    padding-left:100px ;
+    padding-right:100px ;
+}
+
 .nav .logo{
 
     padding: 50px;
@@ -70,6 +75,7 @@
 
 .welcome{
     padding: 50px;
+    float: left;
 }
 
 .welcome #p2{
@@ -103,3 +109,43 @@ button:hover{
     font-size: 16px;
     font-weight: bold;
 }
+
+.welcome .img2{
+    float: left;
+}
+
+.gallery{
+    background-color: #081b30;
+    height:1000px;
+    width:100%;
+}
+
+.img5 #img1{
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    float: left;
+    margin: 10px;
+
+}
+
+.img5{
+    padding-left:100px ;
+     padding-right:100px ;
+     padding-top:30px ;
+}
+
+.img5 #img1 img{
+padding: 20px;
+}
+
+.img5 #img1 p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    }
+
+   
+    .img5 #img1 #a5{
+        color: #136af8;
+    }
