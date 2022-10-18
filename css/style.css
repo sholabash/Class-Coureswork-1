@@ -1,0 +1,48 @@
+
+.header{
+    background-color: #136af8;
+    height: 600px;
+    width:100% ;
+    margin-top: -20px;
+}
+
+.nav{
+    padding-left:100px ;
+    padding-right:100px ;
+}
+
+.nav .logo{
+
+    padding: 50px;
+    float: left;
+}
+
+.nav .link a{
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:20px ;
+    font-weight: bold;
+
+}
+
+
+.nav .link a:hover{
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:20px ;
+    font-weight: bold;
+
+}
+
+
+
+.nav .link{
+    float: left;
+    padding: 60px;
+    margin-left: 100px;
+    
+}
